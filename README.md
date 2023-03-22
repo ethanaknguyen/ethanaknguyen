@@ -1,7 +1,7 @@
 - Hi, I’m Ethan Nguyen
-- I’m interested in becoming a product manager
-- I’m currently majoring in Business Administration with a concentration in Marketing as well minoring in Computer Information Technology
-- You can reach me at ethananhkhanhnguyen@gmail.com as well as my phone number (510)415-0697 
+- I’m interested in going into marketing and product management
+- I’m currently majoring in Business Administration with a double concentration in Marketing and Entrepreneurship and a minor in Computer Information Technology
+- You can reach me at ethan.ak.nguyen@gmail.com as well as my phone number (510)415-0697 
 
 
 <!---
